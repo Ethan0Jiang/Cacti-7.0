@@ -1,0 +1,4 @@
+*.cfg.out
+cacti
+obj_dbg/
+
